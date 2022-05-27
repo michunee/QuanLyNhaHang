@@ -1,0 +1,13 @@
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyQuanCafe.exe.config
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyQuanCafe.exe
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyQuanCafe.pdb
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyQuanCafe.fLogin.resources
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyQuanCafe.exe
+G:\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyQuanCafe.pdb
